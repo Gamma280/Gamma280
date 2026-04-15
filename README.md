@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Gamma280/Gamma280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🚀 AI Product Manager in Progress
 
 Turning ideas into real-world AI products that people actually use.
@@ -32,4 +27,3 @@ Turning ideas into real-world AI products that people actually use.
 → Building AI products from scratch (0 → 1)
 → Solving real user problems (not just demos)
 → Learning by shipping fast and iterating
--->
